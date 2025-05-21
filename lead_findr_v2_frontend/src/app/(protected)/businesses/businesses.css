@@ -1,0 +1,128 @@
+/* ─────────────── Container Layout ─────────────── */
+.business-table-wrapper {
+    padding: 1.5rem;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    overflow-x: auto;
+}
+
+/* ─────────────── Filter Summary Header ─────────────── */
+.filter-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #e5e7eb;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(12px);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #333;
+}
+
+/* ─────────────── Business Table ─────────────── */
+.business-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.business-table th,
+.business-table td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e5e7eb;
+    text-align: left;
+    white-space: nowrap;
+    color: #444;
+}
+
+.business-table th {
+    background-color: #f9fafb;
+    font-weight: 600;
+    color: #333;
+}
+
+.business-table tr:hover {
+    background-color: #f1f5f9;
+    transition: background 0.2s ease-in-out;
+}
+
+/* ─────────────── Pagination Controls ─────────────── */
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    font-size: 0.95rem;
+}
+
+.pagination-controls button {
+    padding: 0.4rem 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #fff;
+    cursor: pointer;
+}
+
+.pagination-controls button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* ─────────────── Empty State Message ─────────────── */
+.business-empty {
+    text-align: center;
+    padding: 4rem 1rem;
+    color: #666;
+    font-size: 1rem;
+}
+
+/* ─────────────── View Toggle Buttons ─────────────── */
+.view-toggle-group {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.view-toggle-button {
+    font-size: 0.875rem;
+    padding: 0.45rem 1rem;
+    border-radius: 0.5rem;
+    border: 1.5px solid #e5e7eb;
+    /* gray-200 */
+    background-color: #ffffff;
+    color: #374151;
+    /* gray-700 */
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+
+.view-toggle-button:hover {
+    background-color: #f9fafb;
+    /* gray-100 */
+    box-shadow: 0 0 0 1px rgba(59, 130, 246, 0.3);
+    /* blue-500 focus ring */
+}
+
+.view-toggle-button.active {
+    background-color: #eef4ff;
+    /* light blue background */
+    border-color: #3b82f6;
+    /* blue-500 border */
+    color: #1d4ed8;
+    /* blue-700 text */
+    font-weight: 600;
+}
+
+/* ─────────────── Responsive: Filter Summary Stack ─────────────── */
+@media (max-width: 640px) {
+    .filter-summary {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+}

@@ -1,0 +1,76 @@
+/* scan.css */
+
+/* Container for the scan page */
+.scan-container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    margin-top: 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Title and subtitle */
+.scan-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1e3a8a;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.scan-subtitle {
+    text-align: center;
+    font-size: 1rem;
+    color: #4b5563;
+    margin-bottom: 2rem;
+}
+
+/* Mode toggle */
+.scan-mode-toggle {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.scan-toggle-btn {
+    padding: 0.5rem 1.25rem;
+    font-size: 0.875rem;
+    border-radius: 0.5rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.scan-toggle-btn.active {
+    background-color: #2563eb;
+    color: white;
+    font-weight: 600;
+}
+
+.scan-toggle-btn.inactive {
+    background-color: #f3f4f6;
+    color: #1f2937;
+}
+
+.scan-toggle-btn.inactive:hover {
+    background-color: #e5e7eb;
+}
+
+/* Content area */
+
+
+.map-mode-layout {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.map-section {
+    flex: 2;
+    min-width: 400px;
+}
+
+.form-section {
+    flex: 1;
+    min-width: 320px;
+}

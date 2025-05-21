@@ -1,0 +1,2210 @@
+[
+    {
+        "place_id": "ChIJSdMUsHndPzkRGKHxRNZBO7s",
+        "name": "Gallops Restaurant & Coffee House",
+        "address": "Junagarh Fort Rd, opposite Junagarh Fort, Rath Khana Colony, Bikaner, Rajasthan 334001, India",
+        "city": "Bikaner",
+        "lat": 28.0215954,
+        "lng": 73.3203798,
+        "dpi_score": 60.0,
+        "dpi_badge": "Established",
+        "website_score": 0.0,
+        "social_score": 22.0,
+        "backlink_score": 25.0,
+        "brand_score": 13.0,
+        "is_f500": false,
+        "has_website": false,
+        "is_secure": false,
+        "enriched": true,
+        "scan_id": "bikaner_rajasthan_india",
+        "date_fetched": "2025-04-21T22:05:59.390003",
+        "json_data": {
+            "id": "ChIJSdMUsHndPzkRGKHxRNZBO7s",
+            "types": [
+                "pizza_restaurant",
+                "fast_food_restaurant",
+                "cafe",
+                "italian_restaurant",
+                "food_store",
+                "indian_restaurant",
+                "chinese_restaurant",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "087692 45945",
+            "internationalPhoneNumber": "+91 87692 45945",
+            "formattedAddress": "Junagarh Fort Rd, opposite Junagarh Fort, Rath Khana Colony, Bikaner, Rajasthan 334001, India",
+            "plusCode": {
+                "globalCode": "7JWM28CC+J5",
+                "compoundCode": "28CC+J5 Bikaner, Rajasthan, India"
+            },
+            "location": {
+                "latitude": 28.0215954,
+                "longitude": 73.3203798
+            },
+            "rating": 4,
+            "googleMapsUri": "https://maps.google.com/?cid=13491449497253945624",
+            "regularOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 10,
+                            "minute": 30
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 30
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 10:30 AM – 10:30 PM",
+                    "Tuesday: 10:30 AM – 10:30 PM",
+                    "Wednesday: 10:30 AM – 10:30 PM",
+                    "Thursday: 10:30 AM – 10:30 PM",
+                    "Friday: 10:30 AM – 10:30 PM",
+                    "Saturday: 10:30 AM – 10:30 PM",
+                    "Sunday: 10:30 AM – 10:30 PM"
+                ],
+                "nextOpenTime": "2025-04-22T05:00:00Z"
+            },
+            "utcOffsetMinutes": 330,
+            "adrFormatAddress": "<span class=\"street-address\">Junagarh Fort Rd</span>, opposite Junagarh Fort, <span class=\"extended-address\">Rath Khana Colony</span>, <span class=\"locality\">Bikaner</span>, <span class=\"region\">Rajasthan</span> <span class=\"postal-code\">334001</span>, <span class=\"country-name\">India</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 2503,
+            "displayName": {
+                "text": "Gallops Restaurant & Coffee House",
+                "languageCode": "en"
+            },
+            "currentOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 10,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 10:30 AM – 10:30 PM",
+                    "Tuesday: 10:30 AM – 10:30 PM",
+                    "Wednesday: 10:30 AM – 10:30 PM",
+                    "Thursday: 10:30 AM – 10:30 PM",
+                    "Friday: 10:30 AM – 10:30 PM",
+                    "Saturday: 10:30 AM – 10:30 PM",
+                    "Sunday: 10:30 AM – 10:30 PM"
+                ],
+                "nextOpenTime": "2025-04-22T05:00:00Z"
+            },
+            "primaryType": "food_store",
+            "shortFormattedAddress": "Indira Fountain and Garden, Junagarh Fort Rd, Junagarh Fort, Rath Khana Colony, Bikaner",
+            "editorialSummary": {
+                "text": "Indian, Rajasthani, Continental & Chinese dishes served in a simple space with Junagarh Fort views.",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcKB9Ht1kj8W1-sJl-KZ2NCWmEKwF9-jlu1r1jNBPv7szW0921-c7IPPxJ3A3tA-tu_8RF8yLiEPO3rcvHCDEHJC10jIUaTL-H7JgtjMecTIdLG5D4QszoJyouRAcR8Ay9rRfOz1BgwgNyfGseL7qbIofA8B2uHYqJBTo2B74SuBMQWegV-m2PWPCJ04B4XpnXvA3-P9NbgoFlfZRHe7NRnKBWQyujp0CEgEPrfwS-4AHX0JyP6urT9VSTs08ejR1brwngTOl7JEqIfcG8OkLJq79Qh3V-lV0FXhDpXBHnaryA",
+                    "widthPx": 2856,
+                    "heightPx": 2238,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Gallops Restaurant & Coffee House",
+                            "uri": "https://maps.google.com/maps/contrib/113384341466525066803",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZ6u9E_iLZmG3jJBy3L_iq0wZxfEIO2hzbo3V59-fkH3tWeeI=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO3yBnKMbAN8uZ_6v77v_WdkA83xncBeF7778sy&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3yBnKMbAN8uZ_6v77v_WdkA83xncBeF7778sy!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcKtrUCYf_XymlLbLzQYetAZlBveLC20_PN3cxOL68cbV0L-DdvoNzJQt-RUOeUAyFLZ8zpkw87Mv-ZhlWV_vUINZhCI9ozv78RoQdmVfH_b-rHOf_9pBIwcwhTXUzhxyFKHFJnw50XFFE2rKKsVVnJ3AfsD0PCYEdO3lHrvYuAUuANomErxN1O1M7hfznIwiHCO07jDO1OLhJsy4hTXqb2cOGAZy4CDnBGtCUUFmHqRO4O5AiWTDYT2ue0UXkAmyhwWxxG5-7WdD2v1gIry7cmfsOY-vFP7ZqNBtEowunL-bg",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Gallops Restaurant & Coffee House",
+                            "uri": "https://maps.google.com/maps/contrib/113384341466525066803",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZ6u9E_iLZmG3jJBy3L_iq0wZxfEIO2hzbo3V59-fkH3tWeeI=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNkQ3excIsgs5BlyiqqtVc9bx_bNDAKiPsvb-B2&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNkQ3excIsgs5BlyiqqtVc9bx_bNDAKiPsvb-B2!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcK3Aj8mqCLOIAvB1Zlht4BArLBixg8ji7aRSwpA5P4j1GLih1R2erXJNZuiBju3V-6hHsZIFrckmlW5IR0UszMzMpeDL5-HLAKwTg-ImK3wcS-H4WD1EC-JK0VGoNDdOtNpHk6I3unxToIkakj4w8AKQVGJ_Te0nZ1GaGy9aj74pQ7zSRHAiDqhgo-tAQbhC5VMBgPxmXV7WCV_N7XpMRLsxlYEf_ARpPzTEI_IS7Js4N-sAITR2V4TDa1bGFAn1WiTZNvxDUIJWRwYdtgC_XbZfQMryF-qZTg7ufM8PRm00w",
+                    "widthPx": 1225,
+                    "heightPx": 689,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Gallops Restaurant & Coffee House",
+                            "uri": "https://maps.google.com/maps/contrib/113384341466525066803",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZ6u9E_iLZmG3jJBy3L_iq0wZxfEIO2hzbo3V59-fkH3tWeeI=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOtLydBPwsYs1j99lVlnNIjxsCcbe7ZQqFHzkAr&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOtLydBPwsYs1j99lVlnNIjxsCcbe7ZQqFHzkAr!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcLe9kL_v12wICh6A78IzNXOFuv9q1WuNxx04jtnLbivOxvSrDHZY-JLZLMzE6q9vmsOzFdv3-Kqa0WcgOi0guhedYtIM_ROiIbh33v7YxU1rjy7MxVg6IqZSAiHldmoIiDOjVUSkfHZ0SFBVBuK_50zZSAS_kpVMrJaV-vh3mLi3_P9F7mRXngp0sa0rd4szfMet0NmICQNoBKC4Ej38JY8c-2dx11lcIFGNbE7-ThPAPzWd1Kfsdh_SzBMdGkdpKpgMV69Ad_1g0GrwNPcthDVyN_xf4cJzJx5QIbHRtp4bg",
+                    "widthPx": 4096,
+                    "heightPx": 3072,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Gallops Restaurant & Coffee House",
+                            "uri": "https://maps.google.com/maps/contrib/113384341466525066803",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZ6u9E_iLZmG3jJBy3L_iq0wZxfEIO2hzbo3V59-fkH3tWeeI=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPrJN1OJiQjaMAMD9osGrHcHMbIhiAXVe2TGgH3&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPrJN1OJiQjaMAMD9osGrHcHMbIhiAXVe2TGgH3!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcJXCOsJgm4gv7StUZ9v5rnoRtMc2yN9esBB_Gzd1FJCilMHeOoQNFlCXvx3CIKatB39o3NnnGymoMvhGylJy070duwWWUCAmSkNzedr4j6ka3i6H14YB0x4-0a68rFUYmlNQCNey8namyTZ6PtYFzPIlzk4WYLvY1lJq_bGwfm4ZABMyz7OaHKKnKoThDktqOHvyJvn2HQAs8p4sze776XjVuzWqaoMcYMSVLc5I5VXO-Az3vwHw4PrPHSARAXdus7VGCgpQu_DGrcporPejfDVMljEFWRwEy60sUb0FqOANulD7r78f8hPG2JGUrr_JoRyaK31m2fQBotAqmUXJwHZMvPQ7davM9oOM3vk4Se9Fsts6BzdvY0ri2W7QZUxPjMKArfsAAMTgO1vzsa65OqqUyfF0lO_0SHjfZLnsQHYIQ",
+                    "widthPx": 1848,
+                    "heightPx": 2890,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kapil Giri",
+                            "uri": "https://maps.google.com/maps/contrib/110702112490276246369",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUPyN8jw3WHCVO6VdoV-RN6Xsyu1FOMuJvG9t_DYyq-1yo1y8C=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICb8eCXAQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICb8eCXAQ!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcIRf8F0liyVdavNHSwuo-yyf0U4OWBSmzjzL9hAJWO9ugzDz2aj_e6Jam3vkFOicSMbK2aJrpBw_nv8PnIRLD_EB9bxcGtNHD-H20WYaTeWOnv4RxAg1CERP6a-CffeRNAEkRzYmsrOr9k4aUva3eAVTYJzNNFDJ5Aq0cxJDW8A7-ycV8XlwtR7NlvVkyRhOazBzkt_XXKoAV0O0SOh8eYxm2omfdl_4xWW9XclyFyAGldDLpp6-KWZ9vG__rhRzSoGK9Y0igDxfg9Ylv1XZohbccxet8q8KbR5bx7FO0GxeLTZ2fHBiBQ9upRSgBTYbLCNyGUKmSpI8yqLiuryMgg6EV8zFOaPR7yUwsBWk5RmqehmLzAWrJEtaFSueL64unRxFyjqSZh04G5gTqgtuatzoFzl1SzHUCz9NnZL8Xo7kQ",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "olivier C’est moi",
+                            "uri": "https://maps.google.com/maps/contrib/106099242152915053660",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIZAZRCvG169nCXqGvqjUtPDezK-BT-OhYcOb7yzYM0KR3dKnar=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCwpZarXw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCwpZarXw!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcJ1sA01dkFwwWtqxxFVQiqM-ZQgJtFT4BUGaUM5GZWHajEEMOvkdu_wPJKBS06l76ri2WVsoY7RElhJoBD5DH9UHtLXtfe7sfIgeWHbW-WB1WHF54yuizedKeex0-6gp7jS_B88WdznNJGMVnVnx2yDYLM1Ay-lB3sxtnW__2_ofGaUJQsysKxMgy9U2CI0YFwzgBP19F-S4_tVGGMdlIdEu-5cS9lT63IOv9pcO1kDEgYEgUnIcz4TpVoymz2PTg4ewi_X8kemb21w3EppeKVREr5eklDp-8qu-t2y_F1ovxVgZlaVzLaRndEfcNOLxTkiIlA47oN5Zq96aDSe3BPeCum2fr_kiJVWSiylpyiZN7OYGlJkgFEKiQJECfZYHaBnWQpUaplgWrYPLJkxlWPYNrOJ2ATRTT5l4H8n_gu11Q",
+                    "widthPx": 4624,
+                    "heightPx": 3472,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Priyanka Raghuvanshi",
+                            "uri": "https://maps.google.com/maps/contrib/109798006579970450989",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLN5Uu19qJdUKPZcS7-AESBisawawxflYZG0tP1DqvUMiAjo3J-=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD-cKFeQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD-cKFeQ!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcLTlMZRx4o3Vvo_X3yghIg5WhLVTY96Cl6s85NGPUPeo-4tqTIPUntcIsCGCg9fLpxdRjDN2-VMcD747HYhzqKTbDXdCyoCqtww1rqMfiAsTaVr__ohThaeJj0wQcrf1A4k-oD-cJeJCvB62tNoZzRYki8gZt_UTo0YuCMsI5xhPc97fVsbExE4ZclHx_b77kum9I1uWlBFL5tdUvDSaN4Vbkj_N5_4PX_lvFE6DIwHqJqDcFYou_jbZde6cavkCDq5DtzztQfymI2rR_eI9cp4zm_3FzX1a3m-RNeMHvNI5A",
+                    "widthPx": 960,
+                    "heightPx": 1280,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Gallops Restaurant & Coffee House",
+                            "uri": "https://maps.google.com/maps/contrib/113384341466525066803",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZ6u9E_iLZmG3jJBy3L_iq0wZxfEIO2hzbo3V59-fkH3tWeeI=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPUnbt2ypZ2sjMPPgoXHTIbA29fW7c_19JaNrD7&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPUnbt2ypZ2sjMPPgoXHTIbA29fW7c_19JaNrD7!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcL9vQXJZLVGUEhDqKxC3rJk0kzM3GmtcX9rZjHpzulbEPbAzEDySw51jOWcNnSJ9KybSIBysP2H-dWeeLtkd8LcHcbwn6ADrfVtruUHAEVNyudhM51mVh-2YsyqKRydWXZ5qRrjtA511WbqCeVEuDUtoaU6lxRGc0uuif8i9ngw0MALq6bR2v9KkhMJDvcB5G_13o3JTI6DXqV6OQdybgS72hHeoWWLJTgMTc2qf2LRbTqVc_macVV9s9Lv3oGMOWTUGVnF0WshpDmPAZ44miD6WZ0_vdepKj3e18UfSo27YbBBGDy_eCrtkHyoGQjFjnu1RS2iZ1Zuyg0jVXiEuU5105C51dr9HSyKDi_0BPlEhjQbQAz0UWS1peabrXXEm2BCQQxd60oHBJLZxBezH2-F53F1mzdcqTJ01wA-7iDHlOGI",
+                    "widthPx": 4624,
+                    "heightPx": 3472,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Priyanka Raghuvanshi",
+                            "uri": "https://maps.google.com/maps/contrib/109798006579970450989",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLN5Uu19qJdUKPZcS7-AESBisawawxflYZG0tP1DqvUMiAjo3J-=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICD-cKFhQE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD-cKFhQE!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                },
+                {
+                    "name": "places/ChIJSdMUsHndPzkRGKHxRNZBO7s/photos/AeeoHcJGbjXyhRkLspLXiHjV-J-R2vjLTOeEWsaAZN5_qJ6xX8_K-EG2nq14TNihu5qC5iAvmoAU5fxa6--QRiMyb0kv14j05e_aGYDZE_ME-vD3STLG40f7uSvjWsWZ5dETpLC_Dr1p_kSmrRECcANhUJaT4CGjFr21KicTV5rZry0MyPXYrJuXSU849MUSylrIGPUIwe8ko6T5P3YV-xcUrTum56jGymBrVNZ_zF0Uqt7sFoTnqB_Mk-1iMx4KlNGLYvCw9F0lXTw6fykCOUNFTloUYhXWoHQWBCQ2J3ndhIbtBkbeZIot3cS-QdnGGP88vqsB1eKrEdZubCq8Vh4H8y-z7RFvN8ec2Wgf8Qs88Y_CeaGfCW62NHxJCGAKi6ptY03H3pxA9R6wpNHD2pIEXz5Wh9PLJC_pNAJ_gydka454E9Ra",
+                    "widthPx": 1600,
+                    "heightPx": 1200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Piyush Javeria",
+                            "uri": "https://maps.google.com/maps/contrib/108127626261085947666",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyn7jyyC6atLKEgXlsOshFOlaDc7I5KBPJLOCRqqgYdBGcR5-TwQ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICu3OKw8QE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu3OKw8QE!2e10!4m2!3m1!1s0x393fdd79b014d349:0xbb3b41d644f1a118"
+                }
+            ],
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true,
+                "wheelchairAccessibleRestroom": false,
+                "wheelchairAccessibleSeating": true
+            }
+        }
+    },
+    {
+        "place_id": "ChIJo2KR_nznPzkRsMi7Q4gnXxg",
+        "name": "Juhi Flower Center",
+        "address": "Dhola Maru Rd, Panchshati Cirlce, Sadul Ganj, Bikaner, Rajasthan 334003, India",
+        "city": "Bikaner",
+        "lat": 28.0110239,
+        "lng": 73.3328394,
+        "dpi_score": 56.0,
+        "dpi_badge": "Established",
+        "website_score": 0.0,
+        "social_score": 19.0,
+        "backlink_score": 25.0,
+        "brand_score": 12.0,
+        "is_f500": false,
+        "has_website": false,
+        "is_secure": false,
+        "enriched": true,
+        "scan_id": "bikaner_rajasthan_india",
+        "date_fetched": "2025-04-21T22:05:59.152012",
+        "json_data": {
+            "id": "ChIJo2KR_nznPzkRsMi7Q4gnXxg",
+            "types": [
+                "florist",
+                "home_goods_store",
+                "market",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "094141 39486",
+            "internationalPhoneNumber": "+91 94141 39486",
+            "formattedAddress": "Dhola Maru Rd, Panchshati Cirlce, Sadul Ganj, Bikaner, Rajasthan 334003, India",
+            "plusCode": {
+                "globalCode": "7JWM286M+C4",
+                "compoundCode": "286M+C4 Bikaner, Rajasthan, India"
+            },
+            "location": {
+                "latitude": 28.0110239,
+                "longitude": 73.3328394
+            },
+            "rating": 4.3,
+            "googleMapsUri": "https://maps.google.com/?cid=1756165845903198384",
+            "regularOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 10:00 PM",
+                    "Tuesday: 7:00 AM – 10:00 PM",
+                    "Wednesday: 7:00 AM – 10:00 PM",
+                    "Thursday: 7:00 AM – 10:00 PM",
+                    "Friday: 7:00 AM – 10:00 PM",
+                    "Saturday: 7:00 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 10:00 PM"
+                ],
+                "nextOpenTime": "2025-04-22T01:30:00Z"
+            },
+            "utcOffsetMinutes": 330,
+            "adrFormatAddress": "<span class=\"street-address\">Dhola Maru Rd</span>, <span class=\"extended-address\">Panchshati Cirlce, Sadul Ganj</span>, <span class=\"locality\">Bikaner</span>, <span class=\"region\">Rajasthan</span> <span class=\"postal-code\">334003</span>, <span class=\"country-name\">India</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 104,
+            "displayName": {
+                "text": "Juhi Flower Center",
+                "languageCode": "en"
+            },
+            "currentOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 7,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 7:00 AM – 10:00 PM",
+                    "Tuesday: 7:00 AM – 10:00 PM",
+                    "Wednesday: 7:00 AM – 10:00 PM",
+                    "Thursday: 7:00 AM – 10:00 PM",
+                    "Friday: 7:00 AM – 10:00 PM",
+                    "Saturday: 7:00 AM – 10:00 PM",
+                    "Sunday: 7:00 AM – 10:00 PM"
+                ],
+                "nextOpenTime": "2025-04-22T01:30:00Z"
+            },
+            "primaryType": "florist",
+            "shortFormattedAddress": "Dhola Maru Rd, Panchshati Cirlce, Sadul Ganj, Bikaner",
+            "photos": [
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcKez1gV3luBicXwHa81T5-RIHyHJ1HWgmx91AX_wy50hKjn0OSvNnpTwT79luW6xrlVSvO2v3gJROKFQ6RwBjGDV2MnuoQ109AtT9kzpwRUi_hdbq1BkKl6frcJWKeAem4gMSuxhx8VmBKM7V-1I7SyX-Cjw3zTW94FvHMtmFDQYMEQlHe5em-Y13buDLLU1WfIJ4m_p3olBxeDBteazPP30-loX5alqGmFMvN-QJ9hofR6XAf_6GBV4ikEvIkDurayavMYG233DykEG3ppAP7KriubaNukdqMtC-MllOgz4g",
+                    "widthPx": 3200,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN5QsXEqmzY9-DuH4q4BO4XWuKJmqafb5eyCHkB&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN5QsXEqmzY9-DuH4q4BO4XWuKJmqafb5eyCHkB!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcIrY2IlFFYgStKd4c_Hp4fAhX_zTDotZskvSvslbddEuR9Rjr79kjiKUfXiiM0-saxKzTDre-DxloOPJTEXvFh-_jpsILfL7Gu_eX0EkU0WWbVdmLAAomsHeQ6SUFPZixjSyhsAHa34ObPHBAr72mc6j7DZChJdXJ-z5i0ogGFiQ0qtvxPy88LSNwLYxiLX4eSbcxND5VYteL69Mmjb7fqU7uvfMl-CtVTgh8stt5UkPqkBKpTv_xMzqcyizTEPYaFUwrZmqVaZ2vFHnodz8MXpX98LTE1TBVHVwhhYg3joPg",
+                    "widthPx": 1024,
+                    "heightPx": 1024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO3IAaFEdaOs2WeoxoDepQ-_A5D3pVZ1-r1EwGD&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO3IAaFEdaOs2WeoxoDepQ-_A5D3pVZ1-r1EwGD!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcLEjz7XF_6KyQPdaBKXuPP54QP1vxQ9ZfGBWqFtFLb3ptn6_ehdjXuwkelzvCXvTbFsdadPABFjzLOEa6x4JJaWqj7YfCG1IqkOXMmoG4aCEup85j_pOhvQe8hyBvoKlMWHsM29EahINYKfFHLV2p-jvbhLN0lBxcysZve5NdVt-eMQa3n4luX5WNqFlTvWAEyIA66XNpO3H5MmAODGTgSqPvK4IyqbW6-IVkO0gGxiirKiCFaDrWiBhZwseqnp4cWIBaqZSonCf8VNbGCO_iBjq-gNoVTpDATlew5Gh2jtidDbjcscIhTOWbxc7IZtQtDxsipFRwoHPJvL-0mGif-xQv7OFofziVNea0-PJVTYBHZ8JD65BMuYi-B4XHF3f2QbQ6JctplaiWApL9Se6fpfaBwplhNaZtkDwTQx7zCyWLor",
+                    "widthPx": 1824,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "sunil thalorh",
+                            "uri": "https://maps.google.com/maps/contrib/101056817424786875328",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2g3xDd_q-iaMa97AhSO7dPMC5cV5sLrJxRxv_ziEH79TYsIsz=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDu1-iv-gE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu1-iv-gE!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcK9Bq1ksjsVOx0teeNY0uUTw4VQ1X-k6jD4fMCeQbYTHjq6mnfGLlffbYCqyPUELvrNwiC0pEyGlREsFxg5pAYq8YfrNW1p4ZlGenfcj6YBZsMPuDY5PS9dC1w1Xy3D7WwfTcUf6nGgzW8iztMpwgcX8p-M85ucwYKIh4XOJ2a6cj7SWVOyKJXdhD89nsvQggx06DSaOzcTv3LiedlOyEa5P6QhbjpENaiL3IAj3SE6D-Iu-K0gf-I6KRaXDTXkRNjN3rxLBOMSsjS-zntbSwT-UcFEVBa7vPcEy3QONsqv6A",
+                    "widthPx": 3200,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO03PgFrpiApyAiZwqADBTq_g0r52lj_Q2PcZY1&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO03PgFrpiApyAiZwqADBTq_g0r52lj_Q2PcZY1!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcI-a1vwhvf_q41FzQwCKgormSKRpgEcJ8_OKePOJd_YtBUlDUt9X7SiXb_fWWiBrROIltK0QTxiRmvAf6xw2H6Hi6x0KJskLByIptY-UvMIFwhgl2a_4RJe18jxQ-fGSjJBlnW7Fw7XcHEoOqpDOruyojJNk0t751X-6GqKq1oo68OiY2IX24ElTv_HLFzdOk-f2XmIOWOLnsrQcgwo90CdgpGTgDWXV-yTCEPQugnv6Hb-itwv36YVbi-CnK0Knnoy07GwE1EQz6s2rUQT1ftWUzfwNP34pCXnv6Tnxs4axw",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOs6XLW3f7ZvOq2n8Nr5qwa1ttXCNsT2w2wNB6O&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOs6XLW3f7ZvOq2n8Nr5qwa1ttXCNsT2w2wNB6O!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcISnY2xWBB7DOE9igbz5wZ5py7tHjTaFbgLiTCtpFvRgUPWgOCzQ13rHO5haohhM3fUwd5EVrtNYcBTdlHmY9NxF91NjFCKXC5Y97GHCV9D8n8Re5LK2tit45pzEQtYn0t3FPWLUbGX1ZMNgb_WdL4YGFsm8yqT80qY_MEJKE9MaBYELUQzaM5S523mN9eyhJHC2fVCXFZhHbJeQ6LI--6DKRXZxOiwbEbUUly4ZclRrTucks2jm6ThnOABxcvNAzsEmLnLc9xMGIEq3dl_BQHb2Lvpw7dW3TvY-RCL0pr0Qg",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPaUlFXyxbrlo7pyFJ6yr-TjK0VpR5OISj0T9Qg&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPaUlFXyxbrlo7pyFJ6yr-TjK0VpR5OISj0T9Qg!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcJtff_dMtQLH7S3BsP0eko1T-vktp2MdJ7DnliusT_93GTt1Cv3H6_m8_KyZKZiqU3D7HuHvrB4pz4Lm9XQE2N0bh5LkguNQQdF4GBgz-tgY_xLsZN9NW6YmXEF3ksayXlavxQ191Jr-J26olJocnYzKYQRJBtnqPcTUtejFVLNsq3I76TTTfx3pYeS5TxyTBjODdjg4qoB5erZhf-VoYAf--OnoMTS4bgyuXs9MXLESBU1mwW9wcOcQgVs6-Me6-EVp3EXgL3E0iLv9kVSy63Vtb8hAmhYHhkA8QsvPe6bmw",
+                    "widthPx": 3200,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNk_6Kr0ypNxRYsqFlbb6HAUdIV5hNhc_CjDIGY&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNk_6Kr0ypNxRYsqFlbb6HAUdIV5hNhc_CjDIGY!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcJf2V7DClV1GhYcYMXh3wcuQZAx8H_s5NBQyjyu1mFfyJFbkaKXdaXbYfFMZlWRYHa2cXlSbuxsPV-TCu3Q_UIN0KoVm03z7JIRI391rgykRlvPqp4D0oePYLLRbLKOaEs23_hABvUSzKNSdf-QjNZuBhU3XVwX_rt_IK7uWEIuk2VF7__1WBU0Hj3WgMeY7auZNKAUVzeLseVBXq05ggZP4x2nmbnJjUDq3futrLy1FVTtKJr6NGGFecG9yryvxgA4NB7BYe0bwLudvW8MWkrPWqoFB24zOXG3u5e84XpA4g",
+                    "widthPx": 3200,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOQ4HkYH7uhj6ef4w73LUKUwcqhX9627-ShtEdP&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOQ4HkYH7uhj6ef4w73LUKUwcqhX9627-ShtEdP!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcLNH_pB3xqKSAU3XTMBXxhXCTnf-K7kP9WBY91_Q4I8ut5bkCTc7jvP-lb0pmBEFY6Hp3zIZ00iWQsjOBAyIRLmtS9hGPLNSkpjWPxwAc5bIiUAyujEpXLX3MhW3mJjNIKTDCkNT54LmPtt8SrJ1mQj9_czojfH-FRnwlvyyleuDkIwn46nGRkrmOr8lPOm4LcsH02SM1oUKhTNkinBKv9-vIINtuMG6ikqEMEI-efugGbkCcMoJg8gBn0cGLIpqjjv-oTGkk6KvvrtrHaJXwixa7ZMlllTHLUq919V6Kl5fw",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Juhi Flower Center",
+                            "uri": "https://maps.google.com/maps/contrib/103618847821059456236",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCRvs6hEIs9NHwTAiFyCypUxFPhC20HC1teenxziDYLhmulN8=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNxTRmWz-0qPE_9-wHyjDvusO1ZDnqtZHpa3h9d&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNxTRmWz-0qPE_9-wHyjDvusO1ZDnqtZHpa3h9d!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                },
+                {
+                    "name": "places/ChIJo2KR_nznPzkRsMi7Q4gnXxg/photos/AeeoHcLaU7By05JLHymBiFGDOE_HccNuiPu6sr_TvlBY3Z4qPrD9o9RdlNx-jmxfr2pjxgUOmEQsvFqVYy-BfKT3GhZ1iPQ0sHyefi2z3UF80oJD6hI0O7mu8Ngj8vw3Fsv3RzHl9GzNSd6cqvHatuADbuNbxauwkzT8VryW3w4tFXUZiRkWZLwLcSSVZkpqD268ghWx2Ou3o6M7XxOcBAcluO8Zavy7jHUQsLwwmbVmm7g2xfxfPK9kWZhOIfmZ0WazCKFyaZRgWL643NRUDZOc51c7YO6iR2Sp3kLEJF62hsALKYzA0wjaHhCF6UgZV5ryY0qxEmWy9w48WB5OwVHBZlyQNFdKx48x97xqBd1DVCxC-l4uukImbhKN5vCu4MZuAgk2Oa_HhTNyQbjGgjVx46zYrZbUT4a6_06kZyu7ah-CLQ",
+                    "widthPx": 1824,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Cooking Chemistry",
+                            "uri": "https://maps.google.com/maps/contrib/100234483496600399073",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwnIFZme_OlLvr8wmESBVVXNEeo_9JH7lvaoyVltZRtoc9LCGZ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDewryIFw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDewryIFw!2e10!4m2!3m1!1s0x393fe77cfe9162a3:0x185f278843bbc8b0"
+                }
+            ],
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true,
+                "wheelchairAccessibleRestroom": true,
+                "wheelchairAccessibleSeating": true
+            }
+        }
+    },
+    {
+        "place_id": "ChIJK0JhQ7LnPzkRcvSOjH7n1AE",
+        "name": "Four Peg Restro Bar",
+        "address": "2849+7H3 Hotel Heeralal, Sharma Colony, Rani Bazar, Bikaner, Rajasthan 334001, India",
+        "city": "Bikaner",
+        "lat": 28.005633999999997,
+        "lng": 73.3189113,
+        "dpi_score": 46.0,
+        "dpi_badge": "Basic",
+        "website_score": 0.0,
+        "social_score": 22.0,
+        "backlink_score": 20.0,
+        "brand_score": 4.0,
+        "is_f500": false,
+        "has_website": false,
+        "is_secure": false,
+        "enriched": true,
+        "scan_id": "bikaner_rajasthan_india",
+        "date_fetched": "2025-04-21T22:05:59.423114",
+        "json_data": {
+            "id": "ChIJK0JhQ7LnPzkRcvSOjH7n1AE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "formattedAddress": "2849+7H3 Hotel Heeralal, Sharma Colony, Rani Bazar, Bikaner, Rajasthan 334001, India",
+            "location": {
+                "latitude": 28.005633999999997,
+                "longitude": 73.3189113
+            },
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=131984819810661490",
+            "utcOffsetMinutes": 330,
+            "adrFormatAddress": "2849+7H3 Hotel Heeralal, <span class=\"extended-address\">Sharma Colony, Rani Bazar</span>, <span class=\"locality\">Bikaner</span>, <span class=\"region\">Rajasthan</span> <span class=\"postal-code\">334001</span>, <span class=\"country-name\">India</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 4,
+            "displayName": {
+                "text": "Four Peg Restro Bar",
+                "languageCode": "en"
+            },
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "2849+7H3 Hotel Heeralal, Sharma Colony, Rani Bazar, Bikaner"
+        }
+    },
+    {
+        "place_id": "ChIJQXLNJZ7nPzkROIMDpKxV_gs",
+        "name": "Online Cake and Flowers",
+        "address": "Road No 5 Indurstrial Area Rani Bazar,Near Nirmal Car Care, Opp Cine magic Cinema-Rani Bazar, Choudhary Colony, Kisamidesar, Bikaner, Rajasthan 334001, India",
+        "city": "Bikaner",
+        "lat": 27.9939632,
+        "lng": 73.32328869999999,
+        "dpi_score": 37.0,
+        "dpi_badge": "Basic",
+        "website_score": 25.0,
+        "social_score": 0.0,
+        "backlink_score": 0.0,
+        "brand_score": 12.0,
+        "is_f500": false,
+        "has_website": true,
+        "is_secure": false,
+        "enriched": true,
+        "scan_id": "bikaner_rajasthan_india",
+        "date_fetched": "2025-04-21T22:05:59.153708",
+        "json_data": {
+            "id": "ChIJQXLNJZ7nPzkROIMDpKxV_gs",
+            "types": [
+                "florist",
+                "bakery",
+                "gift_shop",
+                "dessert_shop",
+                "confectionery",
+                "wholesaler",
+                "food_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "099839 00555",
+            "internationalPhoneNumber": "+91 99839 00555",
+            "formattedAddress": "Road No 5 Indurstrial Area Rani Bazar,Near Nirmal Car Care, Opp Cine magic Cinema-Rani Bazar, Choudhary Colony, Kisamidesar, Bikaner, Rajasthan 334001, India",
+            "plusCode": {
+                "globalCode": "7JVMX8VF+H8",
+                "compoundCode": "X8VF+H8 Bikaner, Rajasthan, India"
+            },
+            "location": {
+                "latitude": 27.9939632,
+                "longitude": 73.32328869999999
+            },
+            "rating": 4.6,
+            "googleMapsUri": "https://maps.google.com/?cid=864222378476143416",
+            "websiteUri": "http://www.onlinecakeandflowers.com/",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "utcOffsetMinutes": 330,
+            "adrFormatAddress": "Road No 5 Indurstrial Area Rani Bazar,Near Nirmal Car Care, <span class=\"street-address\">Opp Cine magic Cinema-Rani Bazar</span>, <span class=\"extended-address\">Choudhary Colony, Kisamidesar</span>, <span class=\"locality\">Bikaner</span>, <span class=\"region\">Rajasthan</span> <span class=\"postal-code\">334001</span>, <span class=\"country-name\">India</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 95,
+            "displayName": {
+                "text": "Online Cake and Flowers",
+                "languageCode": "en"
+            },
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 0,
+                            "minute": 0,
+                            "truncated": true,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "primaryType": "bakery",
+            "shortFormattedAddress": "Road No 5 Indurstrial Area Rani Bazar,Near Nirmal Car Care, Opp Cine magic Cinema-Rani Bazar, Bikaner",
+            "photos": [
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcIlfkGrZ0VWno-sPY2TQKs3g7GpRR66TevI834WcL5UF0hd3clFoOJnPW45NANm_jLRA4sUvX3e1zqC6pxVjt83AP6eOh1WzgP9QMhp8Jz-PejnAIB5X5wxFG7WaZgD5jskymfefvDzwKpYCp6vnZAeIRs8fAvipbcXViG1-WL85PsAzLswIqzAhg2uti33-ctEeTY2tY7rVbIaPAp0Yi-8-oT3iyygGsFAAZ9bKyeJ8grlUqBC_OIBq5Amwu5goVlCf0KsXq7A-qB7pQ7ITo3j5lXdlYSjwlmP6gZoN3MSbw",
+                    "widthPx": 2352,
+                    "heightPx": 4160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Online Cake and Flowers",
+                            "uri": "https://maps.google.com/maps/contrib/117096863749874045074",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_FIFd5vjvES2oUPZKHO9dhJRfDy4Rx5SjfmPAKOnnFrPKNOIZ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNduBlk3YfBMrIFbZl3Qo7i6XTsKDvXzvwg2Kz7&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNduBlk3YfBMrIFbZl3Qo7i6XTsKDvXzvwg2Kz7!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcIarpHmH46vDOBZIf9lU6GEWMY8aC5jvpjvSQfJd07uhizJjeglIL0X2SYP0UzGWW2fHDHh-6QsVvrp90RO0DCj-YbIzd0qx_KSl1KNR1ontXK2yBr3dXCLUV-n4EjwYNRtsmClElM_wlVN5j4nMhDqex62D48OvUiux9O7k5jVSUuFB96TIGVlGOq9coHV7OrQHx8A2zQSbwRUAH2wt1muPlYfVYAMKB_uZh7D8GNNTdW04hCHzZf1aJ1Z26diJQkq7PdfixUoZgajbVGkviu2PAccec0dB9b3CFgGWe6liw",
+                    "widthPx": 1170,
+                    "heightPx": 320,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Online Cake and Flowers",
+                            "uri": "https://maps.google.com/maps/contrib/117096863749874045074",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_FIFd5vjvES2oUPZKHO9dhJRfDy4Rx5SjfmPAKOnnFrPKNOIZ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM7x4h50Ws2i3ZayBgw9h4pGZIFuAtzfX0AyvzN&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM7x4h50Ws2i3ZayBgw9h4pGZIFuAtzfX0AyvzN!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcIflqZ3dCfoo9iY_u_b6vnxFYugyk6QNaj7YBgeWVRwolhEmR9eAt0gX7RVJzmOL0nawQz4Jk5S99vJ7iTIuHA_re4XhBR2xYrbdnK5iP8d7kky0mt5fqSQZ8D4SLjjIJ0dzNgcNLp6I7eRLu37hMbZFmkk_dhodrJA5v8pIYH74Tu_a7XGxEI8HiNgJX_4RChqlDJwlnpuGh6OD-HLZdCPRQuLiM9ZpZY7-e1YK3thmoaT0ONLz0OKoBpGxnNqKk39F9BS_eIIZXH_k1Tz_hKRGC7-Cuixo7IIkvzr2VVK9dbqLsvAyo6Jn3_3WBaVK66-GL7LxDFEniInRqFSNa6Qg9P21sPxlL4LEl0hL5coJr3WZHl3CVPfANq0i1X4-aRAx9C05EPRu9IUD1JryI_p24v480vFYdDtqO0sYz60Jb46",
+                    "widthPx": 1280,
+                    "heightPx": 1280,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Imran Khan",
+                            "uri": "https://maps.google.com/maps/contrib/114083984808798849205",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjyO68Kpli91qaLaR37SR1dXMjKXygpmcJ_GYPNcZivRhrIbLL=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqjMWnhAE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqjMWnhAE!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcJ85vc2yyYbnyXpHmpEWzOO7Jk7NOS_nQku2OnR6k50r6adcjzwlCrLgMVN4Tuf9kAvh1ZlyK_g9MvAjJZYdvw8RlB8bGwi8s6tBdX0snr-8vdz5VQ_3FdIOtmpyY8DMTlB1pd3Lb8OSaasTZeLUdYNJIagaecPx0Fw4LifmXoueUF_4xGdBgowAOM1k-MAc8u-PsZIkDBEVB_UAVQgn75oHXZmuy6ZgB58MQ30Thvv5E6XxmDIcd95yyhvH5PRAYXUnHXUUgjOh4i-fL491LDaSpMN3A57l0QADbuJeSJc_g",
+                    "widthPx": 481,
+                    "heightPx": 400,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Online Cake and Flowers",
+                            "uri": "https://maps.google.com/maps/contrib/117096863749874045074",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_FIFd5vjvES2oUPZKHO9dhJRfDy4Rx5SjfmPAKOnnFrPKNOIZ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPm1-m5dkqjj5oGMl7BOQ307DGu26cvoSOfnoQe&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPm1-m5dkqjj5oGMl7BOQ307DGu26cvoSOfnoQe!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcJ9Y8m0ivn9akZzy1PYEQmk4lVsE3kqdu5BEMMZEGMXTDmSSE03r8xx-bVPIuxh9Y7mJo1EhB4rOFzENQtDJsdGT_mgBE-3h_IP_sRN4dNsKNr_VhNudO4puoed8bj_FrehU6CWtlH7K3gZGsfz5eq8HLpFUIAFJqOXEDxes_DGh06G3ul_slraERB4c102oEQrn39s5l24Rra7OY0MXaDRJ0uOu9UhTBOpMQoAHMNgta1FfHTEg-aAzX5Jv3zhFT9OHCCd1wzkLiKKiXBpe4hmbxEnzvRvOCi2OB1cQ1ghNa0qeE1gCLcn80BJNwwHbeKthM7brL841oNLtcBorqOVHITPb6ExHqoUholVdt1IAcwRdeLVyUjJYAhJ5cj68gYRv079kV8CWhQ027_hakIbNKWc5AeKEXuF7HXccNI4Vw",
+                    "widthPx": 1200,
+                    "heightPx": 1600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Trupti Dinde",
+                            "uri": "https://maps.google.com/maps/contrib/113226199839367309959",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLU3wxEwYz6I24s1RHm6XGxT4zEYpuzuNFwIR2aUf9ROPNecg=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICW97feZw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW97feZw!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcInx8zXWVAkpC4p6nkeIzwh9Keyvwxivlj6ZZ77Ni-UkIcRxyaD_fkin5wdRSmTmLT47fZz8VBVIVjDO93pXs15lwwhaLuws83LZT-2jt8BVzX-tsOwpcAucYQ6fUkKZ746-KWLy5iGNN0i2efmSzLGLCsoMA-sdj1rdF0lMj5luFuBVW_kdiMqk84rN_uxfKkVcQUiDfAZAG1EqIqdQ9hq7LAlGMd9QQttzH3-Kli4nWIQxtE296ETqfZZbMHgGqWqaG2gSc7qTxk-CK1Glj95ue7Q8O3-2aQTJlF3AhyNl5f2M17teQv0Ag8Ap0-0BJoR3QpQpTdkRIHNDZ_-1pu2qCuvqlOMoPxlCsT0nfWg-rRCWfqqti95CcoCwVTp08juiiifGdD4VxoSrKa3oC_8e7wgW7xKUc6_GGqkIcQ",
+                    "widthPx": 554,
+                    "heightPx": 554,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Online Cake And Flowers",
+                            "uri": "https://maps.google.com/maps/contrib/118278978083455991717",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVro3snfi6XieXek944obHme06yu5iPufKwYacLuj-FjPWElKue=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIC93tu0WA&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC93tu0WA!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcJY97VrUjAkaE2zthYYqMB08E5fNKXIf7pB5hH35NpXV4BXw7MECrsmxezsloLTo6V3YKug9_dG_2QMjbwALSdnCvFYwOhN3i7L2VjAFK54yRzqi4lqN4Sq3P5MZHiBt8ri8wb370fsflrKcbukRPNZquZFwGwhYtO3JU-oriaGUj1y2W9nByS0GfylVycQhxIUQz9v3BGAmGx7GjjH-VDM-M56k_ztlBrjB0iTHROqmUtDLqjfrUxNmTAzISoUpQjEqrXqgPJNtMjdIJeI6dSaHXdRvVePz-IUeibu1ZG0fMST_VUumwcpii26peb4GDe0sLtXXLjpVCUE4l9nrdviISV-1lQ7okBYEQQ1l9Y_-VN9voi2HNHftS3gZocezm6NTcKAOxlOeTGZHUJwdGPdVszHkakznYOjcU3T29bQDrFC",
+                    "widthPx": 800,
+                    "heightPx": 800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Imran Khan",
+                            "uri": "https://maps.google.com/maps/contrib/114083984808798849205",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjyO68Kpli91qaLaR37SR1dXMjKXygpmcJ_GYPNcZivRhrIbLL=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqjIX55gE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqjIX55gE!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcLDsTD3CRawCEB7F67Tt-guL7_C1oB6T0oHgiHR2NOv472oBaKCgfB3POROB53r1tyXo2vRxSA-c6Opf9MAmpEaF0E3GZx4EwW0VFx2tGVJPySsMCg2qCPYH1dGklZ7rtDDk17qROj67fzE_qbycP-_lLjYcO9_dFjGNwmgj6z0Qxfun6ny23PgHOe1mD9wHlPMi5hSS7tbBIMfVG6_vG3JdsjGZ_BN7sttFyUTFgi-Lk5UT0lQXKZUObpuOM2KT_bdVOGPQRVFURin2TFQf5gykI2ZPYedurmKYQLTrMLFlw",
+                    "widthPx": 350,
+                    "heightPx": 352,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Online Cake and Flowers",
+                            "uri": "https://maps.google.com/maps/contrib/117096863749874045074",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_FIFd5vjvES2oUPZKHO9dhJRfDy4Rx5SjfmPAKOnnFrPKNOIZ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipN-rv8315a4VNNvIkJ0UtMBKOOvTKrNv8igHJ0Y&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipN-rv8315a4VNNvIkJ0UtMBKOOvTKrNv8igHJ0Y!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcJF4IT1J71-2BYMPxS7bKHBfJJ3k4BS21kr8k1FcAbbytMjRLAiGKRArJb5n2eO-C6aqiJO3duRzJiq4bWm-f0fa-CSckeE2lzxoQTdnLqxazQNycoddV6V8y8gcFMdn36XdSzGnrCkn3-0gzt7KIHw6KZ8qBRWh2u1jI9pe3keJNrEUInfNmwtqDGb8rMRuV6C5OKtqFQTbC7e9khYxFqPUCC7F1VYdoOXFc40tx7sYxAVSuFqaE5DX49OsjIxwvXWt1ZrJABZ8Hs26yyvhezQc0uehSTwf1Atco7iOhxxgUYfWMA1eK6CUFbhIHpW64E0soRVIkB9pvQ6nvE3AAVsqYbIxLUZcu-yVrrebIV7G8HDJRCrTJSvGXvZAiUiO3YWZAgWwGvq_tLDfQU-Ue2-JnSCxtu8JXDz4Pv36Yc",
+                    "widthPx": 828,
+                    "heightPx": 1093,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Anjitha Lata Das",
+                            "uri": "https://maps.google.com/maps/contrib/103542721061260930873",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnesTjgF8_KPTPHkaii5USiIau-Hhl2m25M4mZcYHhuv-sXtAz=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDWvIvVGw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWvIvVGw!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                },
+                {
+                    "name": "places/ChIJQXLNJZ7nPzkROIMDpKxV_gs/photos/AeeoHcL9x2SENE0AzJ9qAE24nw-Mu5_1lR-rilRCgw2gDbEtnrdOtbBppfT4emcuMW93iiSN4UO2CvslVEPI926bFn4RziBksiSayuq57ZfCItzRDCRqny6t9vuQrarbYMoUOUT0nAa8iCCUd-ZDp6zkWdFPVQq19vrZRVmnvozsx2oeIrUed2YGn-XtdRobkmXtbscpJ57UFiqn6tugZJWgvAPsRyuWEqT_cM7TxsbJeANi7KSnnOerPGy6cUpinDB_BMhn4djcxtSpzJo2zsUro3kLIs6PJdjule5gLdSLdkepf7oi0ZEieSU6fj61mf4S9qrnGMXKKY3XiT3kJwqg-KpIJ42fAkP-rX-IcuwbHNmix3aSX2ZdF_egzBqVVe8dGHZqGHuYNkzQTZDICj8oD4itQbUWULkaOKmFPjDzejJpUg",
+                    "widthPx": 428,
+                    "heightPx": 428,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Imran Khan",
+                            "uri": "https://maps.google.com/maps/contrib/114083984808798849205",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjyO68Kpli91qaLaR37SR1dXMjKXygpmcJ_GYPNcZivRhrIbLL=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDqjIWXOQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqjIWXOQ!2e10!4m2!3m1!1s0x393fe79e25cd7241:0xbfe55aca4038338"
+                }
+            ]
+        }
+    },
+    {
+        "place_id": "ChIJ3-ZBBoHnPzkROnnXGSjCFWU",
+        "name": "Sattvic Multi Cuisine Restaurant",
+        "address": "LG Shoppe Building Suraj Talkies Road, Rani Bazar, Bikaner, Rajasthan 334001, India",
+        "city": "Bikaner",
+        "lat": 28.009186399999997,
+        "lng": 73.32041559999999,
+        "dpi_score": 37.0,
+        "dpi_badge": "Basic",
+        "website_score": 0.0,
+        "social_score": 22.0,
+        "backlink_score": 0.0,
+        "brand_score": 15.0,
+        "is_f500": false,
+        "has_website": false,
+        "is_secure": false,
+        "enriched": true,
+        "scan_id": "bikaner_rajasthan_india",
+        "date_fetched": "2025-04-21T22:05:59.389051",
+        "json_data": {
+            "id": "ChIJ3-ZBBoHnPzkROnnXGSjCFWU",
+            "types": [
+                "ice_cream_shop",
+                "fast_food_restaurant",
+                "bakery",
+                "vegetarian_restaurant",
+                "indian_restaurant",
+                "chocolate_shop",
+                "candy_store",
+                "dessert_shop",
+                "confectionery",
+                "wholesaler",
+                "food_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "0151 220 1022",
+            "internationalPhoneNumber": "+91 151 220 1022",
+            "formattedAddress": "LG Shoppe Building Suraj Talkies Road, Rani Bazar, Bikaner, Rajasthan 334001, India",
+            "plusCode": {
+                "globalCode": "7JWM285C+M5",
+                "compoundCode": "285C+M5 Bikaner, Rajasthan, India"
+            },
+            "location": {
+                "latitude": 28.009186399999997,
+                "longitude": 73.32041559999999
+            },
+            "rating": 4.7,
+            "googleMapsUri": "https://maps.google.com/?cid=7283941449829677370",
+            "regularOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 45
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 45
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 10:45 PM",
+                    "Tuesday: 11:00 AM – 10:45 PM",
+                    "Wednesday: 11:00 AM – 10:45 PM",
+                    "Thursday: 11:00 AM – 10:45 PM",
+                    "Friday: 11:00 AM – 10:45 PM",
+                    "Saturday: 11:00 AM – 10:45 PM",
+                    "Sunday: 11:00 AM – 10:45 PM"
+                ],
+                "nextOpenTime": "2025-04-22T05:30:00Z"
+            },
+            "utcOffsetMinutes": 330,
+            "adrFormatAddress": "LG Shoppe Building Suraj Talkies Road, <span class=\"extended-address\">Rani Bazar</span>, <span class=\"locality\">Bikaner</span>, <span class=\"region\">Rajasthan</span> <span class=\"postal-code\">334001</span>, <span class=\"country-name\">India</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 2243,
+            "displayName": {
+                "text": "Sattvic Multi Cuisine Restaurant",
+                "languageCode": "en"
+            },
+            "currentOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 22,
+                            "minute": 45,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 22,
+                            "minute": 45,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 22,
+                            "minute": 45,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 22,
+                            "minute": 45,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 22,
+                            "minute": 45,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 22,
+                            "minute": 45,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 22,
+                            "minute": 45,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 10:45 PM",
+                    "Tuesday: 11:00 AM – 10:45 PM",
+                    "Wednesday: 11:00 AM – 10:45 PM",
+                    "Thursday: 11:00 AM – 10:45 PM",
+                    "Friday: 11:00 AM – 10:45 PM",
+                    "Saturday: 11:00 AM – 10:45 PM",
+                    "Sunday: 11:00 AM – 10:45 PM"
+                ],
+                "nextOpenTime": "2025-04-22T05:30:00Z"
+            },
+            "primaryType": "indian_restaurant",
+            "shortFormattedAddress": "LG Shoppe Building Suraj Talkies Road, Rani Bazar, Bikaner",
+            "editorialSummary": {
+                "text": "Spacious, laid-back dining room with an eclectic Indian menu, plus burgers, pasta & mocktails.",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcIb7vtUlteAOXr6RLd6r-4J2v9Kjci7VkQkKb_YACBmIjSVAG8RI2HOS3FU2zT1rW2GtIh9HmSdQIS1L00C4CZG5_rvbNJ5mvZMJyrlTgxCA9YyNmbJa2mq61pvrmCKBrzo39autNxRd_o8qxc9s4qPOU1wzs27Hr9QIBLAzaOP6DwmAHNqml5HoKouWa8zgwbD5uJ9r3SGyBIB1MpM-GQa0yMkumyT5soSPt4SyTqhgIiUgV520_opthRI92AtsUdThgeFtLisCU1wqW4r7BT1rnwP5LdU3GPvRy6rFJ0xsA",
+                    "widthPx": 2048,
+                    "heightPx": 1362,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP7Sxto-ZLPiV_W14mTsYWX_THrMdNPLwbytykK&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP7Sxto-ZLPiV_W14mTsYWX_THrMdNPLwbytykK!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcI5Jt0y77khkwi7oBwPsWGAX7WWAwklj6rsVsz65GWoGOTUplUFCwlOZvoFXsFWyMFIAs1AT02gXyeFFMNu4oxCKDzLpqo7Dv8x4LuW5I6fjzYbudUPFDYhkJpMkxdOuZW-x55FTnByLcjVWOPH6rsCbi-8s1OGo3RXWVtS27pvb121qX_rHfL8UE5zDvnYVT1PuwVCPXQJniDwx8VkC9JlQu7U6Hzr_GnU-IGVw2tU4aqlUK5ALF875-fOwpSAK5NoN7QpVxECdfyc9alxjjcaffkGzKYl8XOvVGQpDSGb6A",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPa4fBOhAb3yhYAHim8pJsow7E-7DvC98EUz4Lg&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPa4fBOhAb3yhYAHim8pJsow7E-7DvC98EUz4Lg!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcIFZ9YuAMtXpxF7E5hwIJUC1NDaM8lCphr_FUdUEZ7AiackQTO0P-JuJ7XVSTK3J9lU3dl-mHtcAfNVj-MquBLa02g24gxrVmiW0-qDxecQrZQg_GPm-quDX5QLqd9FOzLXTW4_firGMQebjZSirfs-g0Is9VG6r0nwnwY-AEYxffFdUQFz2FTRDDBM16rI-jiRUnsQnFgiljaCs30LMspbNjZvHklpebf6EPJUFeR9bJrIXmpGphLF0GU5Ypjm2nDWgJY1yPk-M_kxQiQeJvD4PhzQe7P4G1BytSJxGfLNUSlHQzMc0dc7YpqZXFJde1l78KWUemb1Ax9jw0DkfubDmAnpr8l0Iz6VQaXGj-TbEKUgO4HwLAPBURzNr7Lc_gsnTh22OnX6AMWBIAlSXXeDAdj6HrZUYSA0ZrCVCZoTWA",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aayushman Soni",
+                            "uri": "https://maps.google.com/maps/contrib/101185977790452790873",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoL7JH_AhXhl8m-xlMfHaCBeYZ3D85osWORKKpqka-QlHAB3aO=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDTiffsYQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTiffsYQ!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcK0I8jtK-vtfDPFnB4infyheNO_FACGc-8GfkUFbPmOADG_Br_-cuy6S-OdFs2pN_vdKZW_HZNdoVU7Ej888RHoQTNAWNca4PSxl9_6Lx7PsdVffdBvOvtdB8OXWs8nLnoc3f8P7LyOerOyjq_iJyNySDzIG3p4l5R8mRZy7OtyEX0CSyGktd-GCWUdOVnFMKa7DqDpMl10HjvWCUHhvAN4smW5BP0LnAbkJnFvdj6t6te1XmYnf-YguCOJCh3ZYpmDycC4qudJZOYiVv6kPh-Oied32iBER4qqIcuwWHXzZw",
+                    "widthPx": 1600,
+                    "heightPx": 1200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMa0Pog1BTs0imzHMsceYZe0_wG8UfsPJgALREO&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMa0Pog1BTs0imzHMsceYZe0_wG8UfsPJgALREO!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcI0RU4N8OL52Hv1wHChC2aEs_iXL2X1LyZb7F1k55ftLe79CmH-a3H73wK468xo2B_rQT99XZvkwJG7K869fBzW_D65OHw-VVFXC-5bjV4HEraUrsZ3urhc7a-jTucpCnxZfiZL1sH1iw_M4ZvaaCH6bnwy7tPBZirgyTcmgUADQ6RVDf4cBXpCE6QVO-e4sGXRJOX-OAGPAWjn64bxjNpQqdHcIZgVgdTJucgvffQHbIM-W1xCJe_no006nQZNqRS5lMKHPABLPfWWBTG2es4GHAdes745qq8oxiRc8f6sT9_0B-57LRj3m-xg1XYNxnfJvMafufl2EvwYtJZ6Nl_Hn9f0vDIJdE3mJsiPVpajAHgpt3iudEskMHduSwG9-uerklaxPvsGzY-6q2f5rheouPIvq402Gf0iiN8g7yXHp_9n",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Vaibhav",
+                            "uri": "https://maps.google.com/maps/contrib/101729185196248757859",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk8tr5FWsYlrJ_4usa7zYAxBD8WLrCYTL-vQkdyyZtCFgn4GTy=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDvz-P9oQE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDvz-P9oQE!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcJeynT6jc35tTBeB2L7yrnRlbptV3AWlXTFRWYmF0xzxTeHoREymZGJfFwL6GXAPoiBEFKo0vn7OQD8dYvvzyPKV9JjIfwi_T3vRmugL6QLVSdaDY4FKecUVToClwKTOQQujy0clNtGZ0dbFPGmS6AmfL9F8nfM-7x1HBFWE1wBIXe0uUIVv-0gFIGEWl9Gt7mtJ3a9_UJiEFlPExug3IZRsRqc14HEEq9mFZSkVaf0Nyz3pB3iq8dwALPJtXjOAwaKUwnOmtnD8fNJT2MXVFODgHO-iOsuFHaVfXy102Re0A",
+                    "widthPx": 4800,
+                    "heightPx": 3191,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNOZ7XlZc0HHObMR3UXyEIm8JhT4q1GWWwuO5aT&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNOZ7XlZc0HHObMR3UXyEIm8JhT4q1GWWwuO5aT!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcJ-9YrfM5-kikbvQo2xFsFTxLrcoXspP2LI3QT2W8Knbtsb5g5RJX0Fkgafq1wLtuQJK7cRZMO1ueHlPZWuvzdyLWEN_SGY1umkdH5LLjpZDyLbI4F6gBH2lA2947jhGImRqKGA_WMfcsINQHiYgoy2SrtVVAJLO3DSVYxEkfLWIRPPRHJCwyH2kmsHV6JZvy4wHkixH_dZdJY7b6DBoztN560U4PkzDEgVyZWbg6nwi5wUS8SkgcUDSrSjSV9lttsw96yUHrgSaDSZPzZ_EEq9Tbipaetg_ngOD8GaYmpeXw",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO-0LG7YX1xqZTRHjby3Q0x8i6Q3G-7MrXR3utm&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO-0LG7YX1xqZTRHjby3Q0x8i6Q3G-7MrXR3utm!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcKlzzzaeqeMSKolU7LZqFQ_r_DbA8r12nUsoU_0oEXJ9Q6kzUlVSAgj3DEHtche-ABgNiBMMWisa7uGr4-F6r0rk-R-3ub_gvFyF0rp1LKNIgDYLCFV2spJ9EfKVELkJMZTMxkscKQtXcY6ILhIoycPAubOgDXaeAZ2edCbR4jOnsXkGlkMpj6nAbF9HQIIASWrPUsOuN7D92HFvUnsl6ZYNdEG0Hr3ZvnBoZsOTgzV2aFUJWBt_2lXz29ZbZgpzLcvp2-rG2MAeM3-xzHXbaSeU63pan2p8x-USc-TW5tAWQ",
+                    "widthPx": 4800,
+                    "heightPx": 3191,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNUP75rHmTqO2oM_KTt6ew3sIXLzvImzFBHO0td&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNUP75rHmTqO2oM_KTt6ew3sIXLzvImzFBHO0td!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcKrsAt8NaMnmsWk_l_k6grD49Rer-E-QjVVFc5QFdhBQcndVrhz-LX0X-uIbouoIvtpZOKtSttL7bNLQqAAV5dNPChzsQLNOuF4nlLAu2z9A9XYTps7NE84p1_u5C212fyeGLOm8oVHFumddNNdjS-AG2yCHDur4yhQXhuq-MItR-PudGQjF9pykIioCQXJcY9mUD2xrWuGSfvAzmOxBZXVWYGc3AhBjrWnKwHJgUdcs3RvuURVJLmTMjBfP63Y6Rhngb1-yeG2SpotARqdOVTprJ_fMCQ5rpHz5qC5JdjmNw",
+                    "widthPx": 1080,
+                    "heightPx": 812,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOJkn8VWIlF9n7qmInYfNWBPDXq77KbXeS0OczS&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOJkn8VWIlF9n7qmInYfNWBPDXq77KbXeS0OczS!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                },
+                {
+                    "name": "places/ChIJ3-ZBBoHnPzkROnnXGSjCFWU/photos/AeeoHcLo3NFGzVr4lnGh6k1BVG2jma8keSxr8pKgpe2jJNdtKw8Dz5H-NjYdEiONKWR6luEKjBQuY8HBbBgAxkLnFSLRieYzfObEkTu_-6jYcOEmBkWqqKN11jJhP7V5rdqpjeWBJq8-B9qFxjXCXGPHaZleO7LJdQKsd4ugJOLqxRAys2mAciVZGmebou1tpEISoXumO4kq6EEVh3duZlZgl1_k3MSVq6c4VgbpLXim_iJDSUjmXv5bbNaOWtTPWBe0cZeHK4kOUQeQEfx2OecAlBh2_C9nApSTAzSDA2JGpYFVVg",
+                    "widthPx": 1080,
+                    "heightPx": 812,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sattvic Multi Cuisine Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/114500407551929214170",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXevxyKFWk4JbCUJ-g3snTFvEwnUTLItl4r5QOgYz-8jb6lugk=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNc5vd3_A7WHBTcy_e1EQPdMjuXHpnJTm7jWAdI&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNc5vd3_A7WHBTcy_e1EQPdMjuXHpnJTm7jWAdI!2e10!4m2!3m1!1s0x393fe7810641e6df:0x6515c22819d7793a"
+                }
+            ],
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": false,
+                "wheelchairAccessibleSeating": false
+            }
+        }
+    },
+    {
+        "place_id": "ChIJIy15a7LdPzkRlOZNQCEFlJY",
+        "name": "Heeralal Restaurant",
+        "address": "GROUND FLOOR, HEERALAL MALL, opposite RAILWAY STATION, Bikaner, Rajasthan 334001, India",
+        "city": "Bikaner",
+        "lat": 28.013353199999997,
+        "lng": 73.3156481,
+        "dpi_score": 36.0,
+        "dpi_badge": "Basic",
+        "website_score": 0.0,
+        "social_score": 22.0,
+        "backlink_score": 0.0,
+        "brand_score": 14.0,
+        "is_f500": false,
+        "has_website": false,
+        "is_secure": false,
+        "enriched": true,
+        "scan_id": "bikaner_rajasthan_india",
+        "date_fetched": "2025-04-21T22:05:59.370951",
+        "json_data": {
+            "id": "ChIJIy15a7LdPzkRlOZNQCEFlJY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "070737 55222",
+            "internationalPhoneNumber": "+91 70737 55222",
+            "formattedAddress": "GROUND FLOOR, HEERALAL MALL, opposite RAILWAY STATION, Bikaner, Rajasthan 334001, India",
+            "plusCode": {
+                "globalCode": "7JWM2878+87",
+                "compoundCode": "2878+87 Bikaner, Rajasthan, India"
+            },
+            "location": {
+                "latitude": 28.013353199999997,
+                "longitude": 73.3156481
+            },
+            "rating": 4.9,
+            "googleMapsUri": "https://maps.google.com/?cid=10850303042613274260",
+            "regularOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 23,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 23,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 23,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 23,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 8,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 23,
+                            "minute": 30
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 8:00 AM – 11:30 PM",
+                    "Tuesday: 8:00 AM – 11:30 PM",
+                    "Wednesday: 8:00 AM – 11:30 PM",
+                    "Thursday: 8:00 AM – 11:30 PM",
+                    "Friday: 8:00 AM – 11:30 PM",
+                    "Saturday: 8:00 AM – 11:30 PM",
+                    "Sunday: 8:00 AM – 11:30 PM"
+                ],
+                "nextOpenTime": "2025-04-22T02:30:00Z"
+            },
+            "utcOffsetMinutes": 330,
+            "adrFormatAddress": "GROUND FLOOR, HEERALAL MALL, opposite RAILWAY STATION, <span class=\"locality\">Bikaner</span>, <span class=\"region\">Rajasthan</span> <span class=\"postal-code\">334001</span>, <span class=\"country-name\">India</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 234,
+            "displayName": {
+                "text": "Heeralal Restaurant",
+                "languageCode": "en"
+            },
+            "currentOpeningHours": {
+                "openNow": false,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 8,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 23,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 27
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 8,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 28
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 8,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 23,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 22
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 8,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 23,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 23
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 8,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 24
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 8,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 23,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 25
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 8,
+                            "minute": 0,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 23,
+                            "minute": 30,
+                            "date": {
+                                "year": 2025,
+                                "month": 4,
+                                "day": 26
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 8:00 AM – 11:30 PM",
+                    "Tuesday: 8:00 AM – 11:30 PM",
+                    "Wednesday: 8:00 AM – 11:30 PM",
+                    "Thursday: 8:00 AM – 11:30 PM",
+                    "Friday: 8:00 AM – 11:30 PM",
+                    "Saturday: 8:00 AM – 11:30 PM",
+                    "Sunday: 8:00 AM – 11:30 PM"
+                ],
+                "nextOpenTime": "2025-04-22T02:30:00Z"
+            },
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "GROUND FLOOR, HEERALAL MALL, RAILWAY STATION, Bikaner",
+            "photos": [
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcJXGQ1GOLLO9VoBmxaYez6F2qNy8dJKHf0CqNjmzc4FDdVuOb9TjVUR9ktbfcpmFM4WAqta6Kk8BInu1htaMNffQwiG4e5GO1jo83XVVRMQviflU58lfBEo1os8cFq9RtOt2khCKhEa90Xg4gQprvNuhwlNTX2Rd6II3qE9TXcVjrkViLqqWy6QAiTTNkyGIPvUDBEYBvViXUf6uhglYSPvDo6OLFJmkvt_K-JtMtHYnr2G7JdpJh2qvRY0PHCtah9DeQaq7jnSBNe4m7nW1S4fBoeai3q-Tu5oOZGEtxRAGFVWF10ObVl--9Zmf_pTr1vMCcF87rpswROOoy708robAdvkBZJ22ndMiXTfX9Rh2LfCx0XgT1ketpuGRLkIGVIbtczvHgMbfAlLi7uUNn2M7yDZBTc1GUAK993B_NyjVA",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ramkumar Vyas",
+                            "uri": "https://maps.google.com/maps/contrib/105468413873791950400",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtrzU7XubVChPlHys9hdNho4scEcUiBR7A2WHFhLPolz5qgQ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCAsufOXg&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCAsufOXg!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcJ1eKMZBpbSg45nhApbNRWn_kTFm4Ue2IavXHPS1_ll7GlaoNH_i4X2E4ywrtA5gowlZb5d9zHTahaJ3isYNxTNKT1d_eLrJooozPGOFLXVw42zu2lxWLrc-9QjtuJkHsRZQiL9TjiFsDTgKtrL_b2lEj3d7TfgXnNBFrAq19vzl3zcqRedtfvdoxnwAxmnZtukhCoS8FEA4j33QxagSL3b2YroCwesmOhJ7vVYp7eOVJCa7sUYl7jhMUscEYfe28HIYAv764GzwvKK9Uy73e6rkkmxMZgv006_0nGZBCiVfnKYhuOUXLDS-GpcIiCHuxmfM07cLvJbqgvnHcHho1OK5fLq643P09ADW5rELhpFoB9FdzOsIIOj8th7-PgwStAwjDAxw5ruaKgA0PtvA2ckyJ32gLYVG6JqwjtjSaM0XVSB",
+                    "widthPx": 1200,
+                    "heightPx": 1600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Rashmi Sukhani",
+                            "uri": "https://maps.google.com/maps/contrib/112686634650121333552",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvaJ880Hx6VUXXyx53x3XKCftxow64enyZJYZgoeoudWQK516f1g=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI0If5yQE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI0If5yQE!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcLQrQ-QAoQVnR_Ok4h0-14R1PXUS46z75z8bP56lEYLjOOIUJrR_jpAtKZ_19IAVcgTFpEb4vTt85hFl9b2uBS5SbLRfMdD1WyUtReJ1jQ36N8mLADG7IcdPI106TaHnY1Dqjpv1LTRLlXfH8zp_uBBTpIAljMcNu-vZYc9dCZnaQufwsrXVbcc_kGrtM2upjylsROCJzRYVJukC3NztRfUHV_yAuSsj96OGQrjowi3g_NxgxOrm2p4T62jIPLnIZfaQGyD3l1HvxTwsMDpCaHQx_zLhdtreQCL3d3pDAJHjQ",
+                    "widthPx": 793,
+                    "heightPx": 1122,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Heeralal Restaurant",
+                            "uri": "https://maps.google.com/maps/contrib/112399950324841906937",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkvLNO0IdP3DlK73FragaE0gp8N-ww80kGdmEyvTahDMyDZfo=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMu-ahqqBYtIELdPe5KIMONnzrvBJBXNck9OE3E&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMu-ahqqBYtIELdPe5KIMONnzrvBJBXNck9OE3E!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcKc4QJFph6UsNmGufpu-ulQ0aJQsvQLaRN2HEyuzeIRtr0Zb7yWUfknOAC66q66twZpZjJUUdiU84SjOQdfWCHEkTNmkX3O15QxNe-cwFqIFqNIPJoRxoIXxLTKY0-xqBBdNT5G7__KnMND8BQh7RPuxhxagHT78QazFA50SxNnsXaRF41nydpGoKJdsKZrNPJkOS86FgblQh2p8K7JyAOaMIxTwRDo-xFWF-oYS-Pst3qhCIyOfjel1joJCrqN38x8YaCCjZzFeaea-tKa3Rtg5jL1e2hRtnw8QWd7SUq1lbO54acxsmITahNeuJsAvGZ6bfTmzjPmhgcaOmLBeP4WilMGhggvpoA8F03D8WJSKLNhT55iOEPww6ZWjnVrwI8xgUrh58l2haFEq95gtVtZtbYdZU6nW7WQYXUNPgNlHA",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "GIRISH SARDA",
+                            "uri": "https://maps.google.com/maps/contrib/108851015915427457462",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtxA5F9Mb-ums-aAfOykPXxsWvphhqImsyY5fcsd73V27UILbe=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDIyI_1aQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDIyI_1aQ!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcIKWZSuw41HdzrE7Z0cUBPMU88TFxQj8TC5aDLhteazhlkEVGVsFcjsquEqtWXKLPr8k3AvFO-pnK7c7l6reh8sBGaFmS17tWw8X_5oTaLy-64ARn9r-No4RPWP-OTZ_qbKzUOMhAHSf3UsPRDkmUVLgeVCsEvIoQVDM7t-hwqcsavqDoW5N5bXZUObpaI6O7PtzP0pS41y4zpwxM9-mwTWURJa6_UxSrbCAd-ZTgxeUmiFwz1zZMvsexCa4ZJVSU87rndGZ4Xwa_Tx7RvHxPiIJ9KZXR0TubQDSDmO_SFhpENbfWqo3ALfpVc_SOfT3aUa8pSe_QNHUZQ9HNzOcSxYdOEzvtwAnoqqauLQSEIxnXWGJviyoNxsfvwgQxtuRjsdwFQtrMjfYjBf-3XLIiJLNZWCR32LLS7_Q9t7bePglosb",
+                    "widthPx": 922,
+                    "heightPx": 1108,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Shweta Gahlot",
+                            "uri": "https://maps.google.com/maps/contrib/100743116939553994314",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPP3ArNrLgtsRtjQpWurlMcQGX2205jR1HT8T6Q1G0nxkySQ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDgiPrf9wE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDgiPrf9wE!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcJUOfl9WlpADjWW4cgFtPvyZlX4dfrSKVu8S4LIxtk07Zco7MUpcQ9r2LquL1iQ9A24CrGMVnqlkkbXcZ8qQzRW8KZp4nh_WYzeXk9e0wBpdbotc9Frg9nCHmS3EmzX3r_Mmudmvk9RdVGXAR_262otAn0Tqo1YBFFpLxMs1pCJ5w_0JD_24TLo6acO96Qa8l3of1RPBhfOGuJDVhVubFvb018tiEBUPLCNkfaP4TE8jLATU3Zrzw1JmslHg2_w23Rvv5BQ6sWVEA4AtiqZpqskRgVajoDRphR-m5lo9fnD29B-_1-PojBlFWXo-XV9UxgTkHG4f-VdzD1cQ9Na3N6xg_kC0Ro5bEQJOjulAIk2DLFYMHptaToc1Rc0HIJvGH0jVgmkEulZwBmo7YpBcoiLuhU58VjWZOp-8OMIIujdtA",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "VIVEK YADAV",
+                            "uri": "https://maps.google.com/maps/contrib/108127661997628457360",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKZOhLumDU2NwFq8uTlaLUmmV2sTcifc7f6enSb2dTfIosx7A=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCQ6PKkPw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCQ6PKkPw!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcKk4eRuACndEK0vYF_dALLA9U2SSOnfPA397-tbFm5R_XpbFrM4Vm7P8Chw-0MTCjYvDGDt0oPgNy_gPX7ZUhW2wB7wvVR5LCYl3KkkBfIdHNFmLPQKbNyKP6JujdL29qSXykYLqpVzpGOPJ15Lf2-dhqv_i9dqKUzbUZdfznZKKLSjCrY4KBGKReIRkASngRxSO7qXiajKMZSZAhZ6fLlxOjiGlx10uuwkpgBmGGYywiCKi1PsYJJjrQPeefZDsXc8zFDd1OCDYzswMzUh6zkva5E9jlHtxKJYOyRPqfCG1ILJdd8KS0JI3e5XJ5ynTCdP_XKaXcgbWlXouAHj5BzEucAwjgLMqyWpR0jmPaDyYFEPLVAZF9zZupDiMVEQWKfof1hOJaJnI3ElM5P7UTSyju9dH6Czk_90C2knxDZfg_8",
+                    "widthPx": 1280,
+                    "heightPx": 1193,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bharat Gahlot",
+                            "uri": "https://maps.google.com/maps/contrib/112241751283879254337",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKu_Tg4WZG_1TDawq72NwLR3KwgPi9goosHtJLZlGRbaZs88Q=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCA8r6syQE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA8r6syQE!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcLW9HnkI00jKHsdYayA2jKzGudXUB-wl9F_fbKoPzN3_TTzpP9z03apcxiiBVAv9Y4rCDJGG6S2nTLoP6E3a4s2MEtOOdBlFXtq1jPhIDTjERjm_j6Lqq58lujhb3xBCpfFxPLLsTQaudukDrYAkZ9LJad2qa_or3GzK8VfXnZapAiF-ptNSyYgx9vAQRaIYOcVFnRBEzjYDkeVRL6P-A8PxFPKsy-EimK66pTC6iRFtbLPHDnwDEhclbKankz5kP0o0F5ABZ9Tl541T5xS4awGzkZ3YWfWvBDdc2qA4YgD0RZukwswtv1drbrF_y0BMdyqZgIEgcUUZ1mgTdoMrAF1V8oRwDfgLZQrWd1YRz2L3zNpkVPLhbfTZ_FblqLQeDrTozQ40rlnkMZLmsgbEirQExuzsOpiOdeJ3_oYcdQ",
+                    "widthPx": 1200,
+                    "heightPx": 1600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Rashmi Sukhani",
+                            "uri": "https://maps.google.com/maps/contrib/112686634650121333552",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvaJ880Hx6VUXXyx53x3XKCftxow64enyZJYZgoeoudWQK516f1g=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI0If5KQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI0If5KQ!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcI17Y4WaFBjuvK3imaN5Chh9ivqgoq1_64PXB2D3K5hUtOR5ob1j2QNYRcS40K9i6aX-d0Gbf0ees2K8Vp6b2mqjwjhDQi-oQnuDQYIOLtvWMqYcK3TLY2VStxl9mfL8tAmDBA9bvDWw-hXMCvQUviTr6Xu1G8LServ0m6tjYaxFFzecN-HJ9uYr-nfTV60fTgqJQB5Wb0X7lmeTLViL_TTCwRyY4EIuz2gJdqbXKbnK6094KhyYCWFLMXu6wAzG-NijobC3BoXXqKx5Aw518u-WjnI7XEB57776g42pgfbOUlYlYxjLosRG1WYhd4-bn6UhCvBQfOshiiYPAy-dJlBGOtW5dygc7k7ISDuGjEtMlMoT6_RK8WTkZ8XyFlZwWFTxaEj0gvz0ZIAd8_wsIgWVbbopeSJIHE3WtM0I-uTY78",
+                    "widthPx": 792,
+                    "heightPx": 1280,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ajay Meena",
+                            "uri": "https://maps.google.com/maps/contrib/104169966886964228837",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsunz54MOvqDMHCek6bZzoPt5YOsAShAO0ZlWLRdkR29mAQw=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMCw3Yv4owE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCw3Yv4owE!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                },
+                {
+                    "name": "places/ChIJIy15a7LdPzkRlOZNQCEFlJY/photos/AeeoHcJg9qg9AeAfCHWwwRr9zlh1doLh4L943j8cWJdw7AXRKUII_Ogz_lXwboLaoEbmNLVUnOcYoNVmwV0cE9698JRw5FCfkqbhhABHLj0JKbuwOlTpiiw-NJjnkWte-4tN3xi3vdwJy5tEwz_cbGqygQkMUJx_ljjkO5quKjl-w2Ukj9z5Ucmd49AMU7-Bumfqs_O50iBaPFJBIKKc39D1Ba9tc7eRJ6kfCDrHohkBZZUUrQVF1jEIO5NUXj0KvLFCxgnKngqYr0ch7aYktveVUkqelmyQ8RP1p-9fAhB0LHlaHMkmUDEBr273pVlUCUDonQnKZ8rMJWWw9H5jAnnEFNKoecnLTsZqus1FQgFFofC-vz4GtzXLaSC2cs0J6mzSP4NY8QJ9rxniU-zl_hDg0UQdS_6PF_E0BNdtk3_K92Q",
+                    "widthPx": 924,
+                    "heightPx": 1311,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Yakub Mondal",
+                            "uri": "https://maps.google.com/maps/contrib/100835265572322072109",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUught077NR__s9rvuInasTUs_fDrJlaQcX825u81E2Lt4H-T8C=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgMDI99y4Zg&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI99y4Zg!2e10!4m2!3m1!1s0x393fddb26b792d23:0x96940521404de694"
+                }
+            ],
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": true,
+                "wheelchairAccessibleEntrance": true,
+                "wheelchairAccessibleRestroom": true,
+                "wheelchairAccessibleSeating": true
+            }
+        }
+    }
+]

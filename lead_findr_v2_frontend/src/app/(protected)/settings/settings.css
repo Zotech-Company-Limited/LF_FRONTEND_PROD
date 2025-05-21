@@ -1,0 +1,463 @@
+/* ───────────────────────────────────────── */
+/* ⚙️ General Layout                        */
+/* ───────────────────────────────────────── */
+.settings-container {
+    padding: 3rem 4rem;
+    background-color: #f9fafb;
+}
+
+.settings-header {
+    margin-bottom: 2.5rem;
+}
+
+.settings-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #111827;
+    margin-bottom: 0.25rem;
+}
+
+.settings-subtitle {
+    color: #6b7280;
+    max-width: 40rem;
+    font-size: 1rem;
+}
+
+/* ───────────────────────────────────────── */
+/* 🧭 Tabs Layout                           */
+/* ───────────────────────────────────────── */
+.settings-tabs {
+    position: relative;
+}
+
+.settings-tablist {
+    display: flex;
+    gap: 2.5rem;
+    padding: 1.5rem 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #e5e7eb;
+    background-color: transparent;
+}
+
+/* Custom Tab Styling */
+.unstyled-tab {
+    all: unset;
+    position: relative;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    font-weight: 500;
+    color: #4b5563;
+    transition: all 0.3s ease;
+}
+
+.unstyled-tab:hover {
+    color: #111827;
+}
+
+.unstyled-tab[data-state="active"] {
+    color: #111827;
+    font-weight: 600;
+}
+
+.unstyled-tab[data-state="active"]::after {
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #2563eb;
+    border-radius: 1px;
+}
+
+/* ───────────────────────────────────────── */
+/* 🧾 Card & Section Styling               */
+/* ───────────────────────────────────────── */
+.settings-card {
+    background-color: #f3f4f6;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    margin-bottom: 2rem;
+    transition: box-shadow 0.3s ease;
+}
+
+.settings-card:hover {
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+.settings-section-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #111827;
+}
+
+.settings-description {
+    font-size: 0.95rem;
+    color: #6b7280;
+    margin-bottom: 1rem;
+}
+
+.settings-detail {
+    font-size: 0.95rem;
+    padding: 0.25rem 0;
+}
+
+/* ───────────────────────────────────────── */
+/* 📡 States (Loading, Error)              */
+/* ───────────────────────────────────────── */
+.settings-loading {
+    padding: 2rem;
+    font-size: 1rem;
+    color: #6b7280;
+}
+
+.settings-error {
+    padding: 2rem;
+    font-size: 1rem;
+    color: #dc2626;
+}
+
+/* ───────────────────────────────────────── */
+/* ✨ Tab Content Transition Animation       */
+/* ───────────────────────────────────────── */
+.settings-tabs .tabs-content {
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.settings-tabs .tabs-content[data-state="active"] {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* ───────────────────────────────────────── */
+/* 🖱️ Reset Password Form                      *
+/ * ───────────────────────────────────────── */
+
+
+/* ────────── Executive Password Form ────────── */
+.reset-form {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 2.5rem 2rem;
+    max-width: 600px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.03);
+    transition: all 0.3s ease-in-out;
+}
+
+.reset-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #111827;
+    margin-bottom: 1.5rem;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #374151;
+    margin-bottom: 0.4rem;
+}
+
+.form-group input {
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 0.65rem 0.9rem;
+    font-size: 0.95rem;
+    background: #f9fafb;
+    transition: border 0.2s;
+}
+
+.form-group input:focus {
+    border-color: #2563eb;
+    outline: none;
+    background-color: #ffffff;
+}
+
+.submit-btn {
+    background-color: #2563eb;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 0.95rem;
+    padding: 0.6rem 1.5rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: background-color 0.2s ease;
+}
+
+.submit-btn:hover {
+    background-color: #1e40af;
+}
+
+.submit-btn:disabled {
+    background-color: #93c5fd;
+    cursor: not-allowed;
+}
+
+.spin {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* ───────────────────────────────────────── */
+/* 🔒 Security Settings Panel               *
+/ * ───────────────────────────────────────── */
+
+.security-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding-bottom: 2rem;
+    overflow: scroll;
+}
+
+.security-section {
+    background-color: #ffffff;
+    padding: 2rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+.security-heading {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 0.5rem;
+}
+
+.security-subtext {
+    font-size: 0.95rem;
+    color: #6b7280;
+    margin-bottom: 1.25rem;
+}
+
+
+/* ──────────────────────────────────────────────── */
+/* 🧨 Delete Account Modal — Executive Styling      */
+/* ──────────────────────────────────────────────── */
+
+.executive-delete {
+    margin-top: 2rem;
+}
+
+/* Trigger button to open the deletion confirmation */
+.executive-delete-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.65rem 1.25rem;
+    border-radius: 8px;
+    background: #fef2f2;
+    color: #b91c1c;
+    border: 1px solid #fca5a5;
+    font-weight: 500;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.executive-delete-btn:hover {
+    background-color: #fee2e2;
+    color: #991b1b;
+    border-color: #f87171;
+}
+
+/* Confirmation card wrapper */
+.executive-delete-card {
+    background-color: #ffffff;
+    border: 1px solid #f3f4f6;
+    border-left: 4px solid #b91c1c;
+    border-radius: 16px;
+    overflow: hidden;
+    padding: 2rem;
+    max-width: 600px;
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.06);
+    animation: fadeSlideIn 0.3s ease-out;
+}
+
+/* Modal entrance animation */
+@keyframes fadeSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(8px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Title and description */
+.exec-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 0.6rem;
+}
+
+.exec-desc {
+    font-size: 0.95rem;
+    color: #4b5563;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+/* Label for confirmation input */
+.exec-confirm-label {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #374151;
+    margin-bottom: 0.3rem;
+    display: block;
+}
+
+.delete-keyword {
+    font-family: monospace;
+    color: #b91c1c;
+    font-weight: 600;
+}
+
+/* Confirmation input */
+.exec-confirm-input {
+    width: 100%;
+    padding: 0.55rem 0.75rem;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    font-size: 1rem;
+    background-color: #f9fafb;
+}
+
+.exec-confirm-input::placeholder {
+    color: #9ca3af;
+}
+
+.exec-confirm-input:focus {
+    border-color: #2563eb;
+    background-color: #ffffff;
+    outline: none;
+}
+
+/* Helper text below the input */
+.exec-helper {
+    font-size: 0.85rem;
+    color: #6b7280;
+    margin-top: 0.4rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Button row */
+.exec-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    margin-top: 1.5rem;
+}
+
+/* Cancel button styling */
+.exec-cancel {
+    background: #f9fafb;
+    color: #374151;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.exec-cancel:hover {
+    background-color: #f3f4f6;
+}
+
+/* Confirm button styling */
+.exec-confirm {
+    background-color: #b91c1c;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 0.5rem 1.2rem;
+    font-weight: 500;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.exec-confirm:hover {
+    background-color: #991b1b;
+}
+
+/* Disabled state for confirm button */
+.exec-confirm:disabled {
+    background-color: #fca5a5;
+    color: #ffffff;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+/* Spinner inside confirm button */
+.spin {
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* ───────────────────────────────────────────── */
+/* 📊 Usage Bar Styles                           */
+/* ───────────────────────────────────────────── */
+
+.usage-bar-wrapper {
+    height: 10px;
+    width: 100%;
+    background-color: #e5e7eb;
+    /* Tailwind gray-200 */
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 0.5rem;
+}
+
+.usage-bar-fill {
+    height: 100%;
+    background-color: #2563eb;
+    /* Tailwind blue-600 */
+    transition: width 0.3s ease;
+    border-radius: 8px 0 0 8px;
+}
+
+input {
+    padding-right: 2.5rem;
+    /* for icon spacing */
+}
+
+button.eye-toggle {
+    position: absolute;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+}

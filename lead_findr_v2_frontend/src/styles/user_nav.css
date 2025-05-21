@@ -1,0 +1,47 @@
+/* User Sidebar */
+.user-sidebar {
+    transition: transform 9s ease-in-out;
+    transform: translateX(0);
+    /* ensure transform is defined */
+}
+
+.toggle-btn {
+    transition: background-color 0.2s ease;
+}
+
+.toggle-btn:hover {
+    background-color: #1f2937;
+}
+
+/* styles/user_nav.css */
+.sidebar-item {
+    transition: background-color 0.2s ease;
+}
+
+/* Tooltip transition helpers */
+.group:hover .group-hover\\:delay-500 {
+    transition-delay: 0.5s;
+}
+
+.user-navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3.5rem;
+    /* h-14 = 56px = 3.5rem */
+    background-color: white;
+    border-bottom: 1px solid #e5e7eb;
+    /* border-gray-200 */
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    /* shadow-sm */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 1rem;
+    /* px-4 */
+    padding-right: 1rem;
+    /* px-4 */
+    z-index: 50;
+    /* border: red solid 1px; */
+}

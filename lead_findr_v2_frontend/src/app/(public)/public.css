@@ -1,0 +1,113 @@
+.auth-form {
+    width: 100%;
+    max-width: 500px;
+    padding: 3rem 2.5rem;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.05);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.75rem;
+    transition: all 0.3s ease;
+}
+
+.auth-title {
+    font-size: 1.75rem;
+    font-weight: 600;
+    text-align: center;
+    color: #111827;
+    margin-bottom: 0.5rem;
+}
+
+.auth-input {
+    width: 100%;
+    padding: 1rem 1.125rem;
+    border: 1px solid #d1d5db;
+    border-radius: 0.625rem;
+    font-size: 1rem;
+    background-color: #f9fafb;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    outline: none;
+    color: #111827;
+}
+
+.auth-input::placeholder {
+    color: #9ca3af;
+}
+
+.auth-input:focus {
+    border-color: #111827;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 2px #11182733;
+}
+
+.auth-error-box {
+    background-color: #fef2f2;
+    border: 1px solid #fecaca;
+    padding: 1rem 1.25rem;
+    border-radius: 0.625rem;
+    color: #991b1b;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.auth-error {
+    font-size: 0.875rem;
+    color: #dc2626;
+    margin-top: 0.35rem;
+    line-height: 1.45;
+}
+
+.auth-button {
+    width: 100%;
+    padding: 0.95rem;
+    background-color: #111827;
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 0.625rem;
+    transition: background-color 0.25s ease, transform 0.1s ease;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.auth-button:hover {
+    background-color: #000000;
+}
+
+.auth-button:disabled {
+    background-color: #9ca3af;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.auth-nav {
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    color: #6b7280;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.auth-nav button {
+    background: none;
+    border: none;
+    color: #111827;
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+
+.auth-nav button:hover {
+    text-decoration: none;
+    color: #000000;
+}
